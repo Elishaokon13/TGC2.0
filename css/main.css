@@ -1279,6 +1279,8 @@ ol {
   z-index: -1;
 }
 
+
+
 /* Pagination CSS */
 .pagination {
   text-align: left;
@@ -1744,7 +1746,7 @@ ol {
   -webkit-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
   top: 0;
-  background-color: #101130;
+  background-color: #0c44;
 }
 
 .navbar-expand-lg .navbar-nav {
